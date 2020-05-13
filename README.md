@@ -10,7 +10,9 @@ The backend and the front end work fine.
 
 ### Algorithm
 
-A user has the options of having a free or paid account. The paid account is either 5$ of 10$.
+A user has the options of having a free or paid account. 
+
+The paid account is either 5$ of 10$.
 
 **Free Account**
 
