@@ -38,7 +38,12 @@ The paid account is either 5$ of 10$.
 
 ### Side note
 
-The ui isn't looking that great. That is upto whoever adopts the project
+The ui isn't looking that great. 
+
+That is upto whoever adopts the project.
+
+Though I'll be updating the ui soon.
+
 The backend and the front end work fine.
 
 
