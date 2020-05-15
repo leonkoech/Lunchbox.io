@@ -25,10 +25,10 @@
             // the above line is to Enable TLS encryption, `ssl` also accepted
             $mail->Port       = 587;                    // set the SMTP port
             /*you can either use 465 for ssl or 587 for tls*/
-            $mail->Username   = "leonkipkip@gmail.com"; // SMTP account username
-            $mail->Password   = "leonkipkoech";        // SMTP account password
+            $mail->Username   = "your email"; // SMTP account username
+            $mail->Password   = "your password";        // SMTP account password
             //Set who the message is to be sent from
-            $mail->setFrom('notreal@notmail.com', 'Leon Koech');
+            $mail->setFrom('notreal@notmail.com', 'your name');
             //Set an alternative reply-to address
             //$mail->addReplyTo('replyto@example.com', 'First Last');
             //Set who the message is to be sent to
