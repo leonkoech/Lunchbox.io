@@ -65,4 +65,4 @@ These are the structures of the tables you have created
 
 ## License
 
-This project is under the [MIT](#)license
+This project is under the [MIT](https://github.com/leonkoech/Lunchbox.io/blob/master/LICENSE) license
